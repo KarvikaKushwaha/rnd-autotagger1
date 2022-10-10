@@ -1,0 +1,12 @@
+{
+    "_index" : "",
+    "_id" : "",
+    "_score" : null,
+    "_source" : {
+      "familyid" : "",
+      "bestsellersrank" : 0,
+      "md5hash" : "",
+      "classification":[],
+      "mltags":[]
+    }
+}    
